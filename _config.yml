@@ -5,7 +5,7 @@ description:
   cn: "这是何炬的个人学术主页，用于分享他的个人经历，项目，学术论文，技术相关/不相关的博客。"
 keywords:
   en: "Ju He,Publications,Posts,Research,Computer Science, Deep Learning,Computer Vision"
-  cn: "何炬,学术论文,博客,研究,计算机科学,深度学习,计算机视觉,图像语义分割"
+  cn: "何炬,学术论文,博客,研究,计算机科学,深度学习,计算机视觉"
 background: /images/background/cube.png
 deep_background: /images/background/background-deepcube.jpg
 
