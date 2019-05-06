@@ -1,0 +1,22 @@
+- title: 'POINT CLOUD ATTRIBUTE INPAINTING IN GRAPH SPECTRAL DOMAIN'
+  date:  'May. 2019'
+  imgurl: '/images/projects/2019/ICIP19.png'
+  imgprop: 'frame'
+  selected: true
+  authors:
+    - name: <strong>Ju He</strong>
+      url: 'https://tacju.github.io/'
+    - name: Zeqing Fu
+      url:  ''
+    - name: Wei Hu
+      url:  'http://www.icst.pku.edu.cn/huwei/'
+    - name: Zongming Guo
+      url:  'http://www.icst.pku.edu.cn/vip/yjscy/jzg/234256.htm'
+  publisher:  'ICIP 2019'
+  status:   ''
+  place:    'in Taipei, Taiwan'
+  desc: 'With the prevalence of depth sensors and 3D scanning de- vices, point clouds have attracted increasing attention as a format for 3D object representation, with applications in var- ious fields such as tele-presence, navigation for autonomous driving and heritage reconstruction. However, point clouds usually exhibit holes of missing data, mainly due to the lim- itation of acquisition techniques and complicated structure. Hence, we propose an efficient inpainting method for the at- tribute (e.g., color) of point clouds, exploiting non-local self- similarity in graph spectral domain. Specifically, we represent irregular point clouds naturally on graphs, and split a point cloud into fixed-sized cubes as the processing unit. We then globally search for the most similar cubes to the target cube with holes inside, and compute the graph Fourier transform (GFT) basis from the similar cubes, which will be leveraged for the GFT representation of the target patch. We then for- mulate attribute inpainting as a sparse coding problem, im- posing sparsity on the GFT representation of the attribute for hole filling. Experimental results demonstrate the superiority of our method.'
+  # tags:
+  #   - name: 'arXiv'
+  #     url:  'https://arxiv.org/pdf/1903.05027.pdf'
+

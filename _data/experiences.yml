@@ -1,0 +1,25 @@
+- date:  "2018.9 - present"
+  title: "Research Intern @ PKU ICST GLAB"
+  desc:  "Computer Vision"
+  host:
+    name:  "<a href='http://www.icst.pku.edu.cn/huwei/'>Prof. Wei Hu</a>"
+  brief: true
+- date:  "2019.02 - 2019.05"
+  title: "Research Intern @ ByteDance"
+  desc:  "Video Augmentation"
+  host:
+    name: "Shenyi Song"
+    role: "Mentor"
+  brief: true
+- date:  "2018.06 - 2018.10"
+  title: "Research Intern @ Momenta"
+  desc:  "Object Detection"
+  host:
+    name: "Shaoqing Ren and Yunfei Jiang"
+    role: "Mentor"
+  brief: true
+- date:  "2016 - Present"
+  title: "Undergraduate student @ PKU"
+  desc:  "Computer Science"
+  host:  false
+  brief: true

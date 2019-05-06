@@ -1,0 +1,54 @@
+# Site settings
+title: Ju He
+description:
+  en: "This is an academic website for Ju He to share his experiences, projects, publications and tech/non-tech posts. He is an undergraduate at Peking University majoring in computer science"
+  cn: "这是何炬的个人学术主页，用于分享他的个人经历，项目，学术论文，技术相关/不相关的博客。"
+keywords:
+  en: "Ju He,Publications,Posts,Research,Computer Science, Deep Learning,Computer Vision"
+  cn: "何炬,学术论文,博客,研究,计算机科学,深度学习,计算机视觉,图像语义分割"
+background: /images/background/cube.png
+deep_background: /images/background/background-deepcube.jpg
+
+baseurl: ""
+# the subpath of your site, e.g. /blog/
+url: "https://tacju.github.io"
+# the base hostname & protocol for your sit
+
+# Paginationœ
+paginate: 6
+paginate_path: "/posts/page/:num/"
+
+# Build settings
+markdown: kramdown
+# permalink setting
+permalink: pretty
+# highlighter: rouge
+highlighter: rouge
+
+# Social media link for the site
+social:
+  github:     TACJu
+
+link:
+  "<a href='https://david-xiang.github.io/'>向东伟(Dongwei Xiang)</a> 
+   <a href='http://39.96.165.147/people/huyz/index.html'>胡煜章(Yuzhang Hu)</a><br>
+   <a href='https://xfw-go.github.io/'>范旻昊(Minhao Fan)</a>"
+
+theme:
+  canvas_nest: true
+
+# google_analytics_token: "UA-60071442-1"
+# google_tags_token: "GTM-K5ZTMW"
+
+
+# customized document resources
+collections:
+  projects:
+    output: true
+
+scss:
+  sass_dir: _scss
+  style: :compressed
+
+gems:
+  ['jekyll-paginate', 'jekyll/scholar', 'jekyll-sitemap']

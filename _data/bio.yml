@@ -1,0 +1,22 @@
+name:       "Ju He"
+title:      "Junior Student @ PKU"
+email:      "heju@pku.edu.cn"
+head_pic:   /images/self-portrait/hj.jpg
+# resume:     "/source/pdf/resume/yuchangqian.pdf"
+# scholar:    "https://scholar.google.com/citations?user=Hv-vj2sAAAAJ&hl=en"
+normal:
+  date:     "May. 2019"
+  title:    ""
+  content:  "<strong>Ju He</strong> is a junior student majoring in Computer Science at
+          <strong>Peking University</strong>. His research interests focus on <strong>Computer Vision</strong> and <strong>Artificial Intelligence</strong>."
+  news:     "<h2>News</h2>
+          <strong>[May. 2019]</strong> Our paper POINT CLOUD ATTRIBUTE INPAINTING IN GRAPH SPECTRAL DOMAIN
+ is accepted to <a href='http://2019.ieeeicip.org/'>ICIP2019</a> in Taipei, Taiwan! <br>"
+#   competitions: "<h2>Competitions</h2>
+#           <li><a href='http://cocodataset.org/workshop/coco-mapillary-eccv-2018.html'>No.1 of COCO 2018 Challenge in Panoptic Segmentation Track 2018</a> </li>
+#           <li><a href='http://cocodataset.org/workshop/coco-mapillary-eccv-2018.html'>No.1 of Mapillary 2018 Challenge in Panoptic Segmentation Track 2018</a> </li>"
+#   professional-activities: "<h2>Professional Activities</h2>
+#           <li>Conference Reviewer: CVPR2019, ICCV2019.</li>
+#           <li>COCO & Mapillary Joint Workshop at ECCV2018, invited talk.</li>"
+
+        
