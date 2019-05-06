@@ -12,7 +12,7 @@
         {{ site.data.bio.title }}
       </div>
       <div id="my-email" class="text-grey-light">
-        {{ site.data.bio.email }}
+        <a href="mailto:{{ site.data.bio.email }}">{{ site.data.bio.email }}</a>
       </div>
       <div class="social-media">
           {% include interactive-social.html %}
@@ -68,7 +68,7 @@
   }
 
   $(function() { 
-    $('#my-pic').hover(deepFeature, shallowFeature);
+    $('#my-pic').hover(shallowFeature);
   })
 
 </script>
