@@ -3,6 +3,7 @@
   desc:  "Computer Vision"
   host:
     name:  "<a href='http://www.icst.pku.edu.cn/huwei/'>Prof. Wei Hu</a>"
+    role:  "Supervisor"
   brief: true
 - date:  "2019.02 - 2019.05"
   title: "Research Intern @ ByteDance"
