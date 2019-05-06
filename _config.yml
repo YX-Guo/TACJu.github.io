@@ -6,8 +6,8 @@ description:
 keywords:
   en: "Ju He,Publications,Posts,Research,Computer Science, Deep Learning,Computer Vision"
   cn: "何炬,学术论文,博客,研究,计算机科学,深度学习,计算机视觉"
-background: "/images/background/cube.png"
-deep_background: "/images/background/background-deepcube.jpg"
+background: /images/background/cube.png
+deep_background: /images/background/background-deepcube.jpg
 
 baseurl: ""
 # the subpath of your site, e.g. /blog/
@@ -28,6 +28,7 @@ highlighter: rouge
 # Social media link for the site
 social:
   github:     TACJu
+  facebook:    profile.php?id=100022746105847
 
 link:
   "<a href='https://david-xiang.github.io/'>向东伟(Dongwei Xiang)</a> 
