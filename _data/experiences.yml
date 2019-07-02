@@ -1,3 +1,10 @@
+- date:  "2019.6 - Present"
+  title: "Research Intern @ JHU CCVL"
+  desc:  "Computer Vision"
+  host:
+    name:  "<a href='http://www.cs.jhu.edu/~ayuille/'>Prof. Alan</a>"
+    role:  "Supervisor"
+  brief: true
 - date:  "2018.9 - Present"
   title: "Research Intern @ PKU ICST GLAB"
   desc:  "Computer Vision"
