@@ -12,7 +12,9 @@ normal:
           <strong>Peking University</strong>. His research interests focus on <strong>Computer Vision</strong> and <strong>Artificial Intelligence</strong>."
   news:     "<h2>News</h2>
           <strong>[May. 2019]</strong> Our paper POINT CLOUD ATTRIBUTE INPAINTING IN GRAPH SPECTRAL DOMAIN
- is accepted to <a href='http://2019.ieeeicip.org/'>ICIP2019</a> in Taipei, Taiwan! <br>"
+ is accepted to <a href='http://2019.ieeeicip.org/'>ICIP2019</a> in Taipei, Taiwan! <br>
+          [Nov. 2018]Our paper Exploring Hypergraph Representation on Face Anti-spoofing Beyond 2D Attacks
+ is now on <a href='https://arxiv.org/pdf/1811.11594.pdf'>arXiv</a>! <br>"
 #   competitions: "<h2>Competitions</h2>
 #           <li><a href='http://cocodataset.org/workshop/coco-mapillary-eccv-2018.html'>No.1 of COCO 2018 Challenge in Panoptic Segmentation Track 2018</a> </li>
 #           <li><a href='http://cocodataset.org/workshop/coco-mapillary-eccv-2018.html'>No.1 of Mapillary 2018 Challenge in Panoptic Segmentation Track 2018</a> </li>"

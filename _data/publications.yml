@@ -20,3 +20,40 @@
   #   - name: 'arXiv'
   #     url:  'https://arxiv.org/pdf/1903.05027.pdf'
 
+- title: 'Exploring Hypergraph Representation on Face Anti-spoofing Beyond 2D Attacks'
+  date:  'Nov. 2018'
+  imgurl: '/images/projects/2018/HGCNN.png'
+  imgprop: 'frame'
+  selected: true
+  authors:
+    - name: Gusi Te
+      url: ''
+    - name: Wei Hu
+      url:  'http://www.icst.pku.edu.cn/huwei/'
+    - name: <strong>Ju He<strong>
+      url:  'https://tacju.github.io/'
+    - name: Dong Chen
+      url:  ''
+    - name: Zongming Guo
+      url:  'http://www.icst.pku.edu.cn/vip/yjscy/jzg/234256.htm'
+  publisher:  ''
+  status:   'Under Review'
+  place:    ''
+  desc: 'Face anti-spoofing plays a crucial role in protecting face
+recognition systems from various attacks. Previous modelbased and deep learning approaches achieve satisfactory
+performance for 2D face spoofs, but remain limited for more
+advanced 3D attacks such as vivid masks. In this paper,
+we address 3D face anti-spoofing via the proposed Hypergraph Convolutional Neural Networks (HGCNN). Firstly,
+we construct a computation-efficient and posture-invariant
+face representation with only a few key points on hypergraphs. The hypergraph representation is then fed into the
+designed HGCNN with hypergraph convolution for feature
+extraction, while the depth auxiliary is also exploited for
+3D mask anti-spoofing. Further, we build a 3D face attack
+database with color, depth and infrared light information to
+overcome the deficiency of 3D face anti-spoofing data. Experiments show that our method achieves the state-of-theart performance over widely used 3D and 2D databases as
+well as the proposed one under various tests.'
+  # tags:
+    #   - name: 'arXiv'
+    #     url:  'https://arxiv.org/pdf/1903.05027.pdf'
+
+
