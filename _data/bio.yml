@@ -1,6 +1,6 @@
 name:       "Ju He"
-title:      "Junior Student @ PKU"
-email:      "heju@pku.edu.cn"
+title:      "Senior Student @ PKU"
+email:      "turkeyju@gmail.com"
 head_pic:   /images/self-portrait/hj.jpg
 deep_pic:   /images/self-portrait/hj.jpg
 # resume:     "/source/pdf/resume/yuchangqian.pdf"
@@ -8,7 +8,7 @@ deep_pic:   /images/self-portrait/hj.jpg
 normal:
   date:     "May. 2019"
   title:    ""
-  content:  "<strong>Ju He</strong> is a junior student majoring in Computer Science at
+  content:  "<strong>Ju He</strong> is a senior student majoring in Computer Science at
           <strong>Peking University</strong>. His research interests focus on <strong>Computer Vision</strong> and <strong>Artificial Intelligence</strong>."
   news:     "<h2>News</h2>
           <strong>[May. 2019]</strong> Our paper POINT CLOUD ATTRIBUTE INPAINTING IN GRAPH SPECTRAL DOMAIN

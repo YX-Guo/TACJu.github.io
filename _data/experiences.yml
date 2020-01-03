@@ -1,31 +1,50 @@
-- date:  "2019.6 - Present"
+- date:  "2020.2 - 2020.8"
+  title: "Research Assistant @ SenseTime"
+  desc:  "Zero/Few Shot Learning"
+  host:
+    name:  "Unknown Now lol"
+    role:  "Mentor"
+  brief: true
+- date:  "2019.6 - 2019.11"
   title: "Research Intern @ JHU CCVL"
   desc:  "Computer Vision"
   host:
-    name:  "<a href='http://www.cs.jhu.edu/~ayuille/'>Prof. Alan</a>"
+    name:  "<a href='http://www.cs.jhu.edu/~ayuille/'>Prof. Yuille</a>"
     role:  "Supervisor"
   brief: true
 - date:  "2018.9 - Present"
-  title: "Research Intern @ PKU ICST GLAB"
+  title: "Research Intern @ PKU WICT GLAB"
   desc:  "Computer Vision"
   host:
     name:  "<a href='http://www.icst.pku.edu.cn/huwei/'>Prof. Wei Hu</a>"
     role:  "Supervisor"
   brief: true
-- date:  "2019.02 - 2019.05"
-  title: "Research Intern @ ByteDance"
+- date:  "2019.02 - 2019.06"
+  title: "Research Assistant @ ByteDance"
   desc:  "Video Augmentation"
   host:
     name: "Shenyi Song"
     role: "Mentor"
   brief: true
 - date:  "2018.06 - 2018.10"
-  title: "Research Intern @ Momenta"
+  title: "Research Assistant @ Momenta"
   desc:  "Object Detection"
   host:
-    name: "Shaoqing Ren and Yunfei Jiang"
+    name: "Shaoqing Ren, Yunfei Jiang"
     role: "Mentor"
   brief: true
+- date:  "2018.1 - 2018.8"
+  title: "Research Intern @ PKU VMC"
+  desc:  "ReID"
+  host:
+    name:  "<a href='https://www.pkuvmc.com/'>Prof. Shiliang Zhang</a>"
+    role:  "Supervisor"
+  brief: true
+- date:  "2019.8 - 2020.1"
+  title: "Exchange student @ HKUST"
+  desc:  "Computer Science"
+  host:  false
+  brief: true  
 - date:  "2016 - Present"
   title: "Undergraduate student @ PKU"
   desc:  "Computer Science"

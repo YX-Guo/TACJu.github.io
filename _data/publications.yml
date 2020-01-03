@@ -7,7 +7,6 @@
     - name: <strong>Ju He</strong>
       url: 'https://tacju.github.io/'
     - name: Zeqing Fu
-      url:  ''
     - name: Wei Hu
       url:  'http://www.icst.pku.edu.cn/huwei/'
     - name: Zongming Guo
@@ -27,17 +26,15 @@
   selected: true
   authors:
     - name: Gusi Te
-      url: ''
     - name: Wei Hu
       url:  'http://www.icst.pku.edu.cn/huwei/'
     - name: <strong>Ju He</strong>
       url:  'https://tacju.github.io/'
     - name: Dong Chen
-      url:  ''
     - name: Zongming Guo
       url:  'http://www.icst.pku.edu.cn/vip/yjscy/jzg/234256.htm'
-  publisher:  ''
-  status:   'Under Review'
+  publisher:  'arXiv'
+  status:   ''
   place:    ''
   desc: 'Face anti-spoofing plays a crucial role in protecting face
 recognition systems from various attacks. Previous modelbased and deep learning approaches achieve satisfactory
